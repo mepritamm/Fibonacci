@@ -18,6 +18,6 @@ public class Fibonacci {
 
     public static void main(String[] args) {
         Fibonacci obj = new Fibonacci();
-        obj.printFibonacci(20);
+        obj.printFibonacci(25);
     }
 }
